@@ -19,5 +19,18 @@ form i {
     cursor: pointer;
 }
 input{
-    padding: 10px 50px;
+    padding: 10px 180px;
+    margin-bottom: 15px;
+}
+#msg {
+    display: none;
+}
+#msg p{
+    color: red;
+}
+.invalid{
+    color: red;
+}
+.valid{
+    color: green;
 }
